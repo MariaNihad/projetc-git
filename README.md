@@ -1,4 +1,4 @@
 # progetc
 interface graphique 📊 
-project note
+projet notes
 
